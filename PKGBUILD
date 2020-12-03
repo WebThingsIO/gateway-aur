@@ -1,9 +1,9 @@
-# Maintainer: Michael Stegeman <mstegeman@mozilla.com>
+# Maintainer: Michael Stegeman <team@webthings.io>
 pkgname=webthings-gateway
 pkgver=0.12.0
 pkgrel=1
-pkgdesc='WebThings Gateway by Mozilla'
-url='https://iot.mozilla.org/gateway/'
+pkgdesc='WebThings Gateway'
+url='https://webthings.io/gateway/'
 arch=('x86_64')
 license=('MPL2')
 depends=(
@@ -28,7 +28,7 @@ optdepends=(
 )
 backup=()
 source=(
-  "${pkgname}-${pkgver}.tar.gz::https://github.com/mozilla-iot/gateway/archive/${pkgver}.tar.gz"
+  "${pkgname}-${pkgver}.tar.gz::https://github.com/WebThingsIO/gateway/archive/${pkgver}.tar.gz"
   "${pkgname}.conf"
   "${pkgname}.install"
   "${pkgname}.profile"

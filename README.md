@@ -1,9 +1,9 @@
-# WebThings Gateway by Mozilla
+# WebThings Gateway
 
 ![AUR version](https://img.shields.io/aur/version/webthings-gateway)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mozilla-iot/gateway-aur/Build)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/WebThingsIO/gateway-aur/Build)
 
-AUR package for Mozilla's WebThings Gateway.
+AUR package for WebThings Gateway.
 
 ## Installation
 
